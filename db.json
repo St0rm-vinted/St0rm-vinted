@@ -1,0 +1,36 @@
+{
+  "subscriptions": [
+    {
+      "id": "mvg4lx",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "938208144180535320"
+    },
+    {
+      "id": "lpt5mv",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "933120907973644389"
+    },
+    {
+      "id": "qmvjlg",
+      "url": "https://www.vinted.fr/vetements?search_text=nike&search_id=4605867218&order=newest_first&status[]=4&status[]=3&status[]=2&status[]=6&status[]=1&brand_id[]=53&price_to=25&currency=EUR",
+      "channelID": "943531532285538304"
+    },
+    {
+      "id": "gjx0g",
+      "url": "https://www.vinted.fr/vetements?search_text=&order=newest_first&status[]=6&status[]=1&status[]=2&status[]=3&status[]=4&price_to=25&currency=EUR&brand_id[]=88&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&size_id[]=211&catalog[]=1812",
+      "channelID": "943532827134291990"
+    },
+    {
+      "id": "trfsd",
+      "url": "https://www.vinted.fr/vetements?search_text=Jordan&status[]=2&status[]=3&status[]=4&currency=EUR&search_id=4436493522&order=newest_first&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=56&size_id[]=1196&size_id[]=57&size_id[]=1197&size_id[]=58&size_id[]=1198&size_id[]=59&size_id[]=1199&size_id[]=60",
+      "channelID": "943537005659291648"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1645029892000,
+  "last_item_ts_lpt5mv": 1645029892000,
+  "last_item_ts_qmvjlg": 1645029939000,
+  "last_item_ts_gjx0g": 1645029616000,
+  "is_first_sync": false,
+  "last_item_ts_vtiw0g": 1645027636000,
+  "last_item_ts_trfsd": 1645029918000
+}
